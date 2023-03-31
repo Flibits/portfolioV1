@@ -125,7 +125,7 @@ body {
 .rodape {
     padding: 15px;
     color: var(--cor-secundaria);
-    background-color: var(--cor-terciaria);
+    background-color: #0077ff;
     text-align: center;
     font-family: var(--fonte-terciaria);
     font-size: 1.3rem;
